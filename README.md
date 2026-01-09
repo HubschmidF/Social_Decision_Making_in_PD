@@ -1,6 +1,6 @@
 # Social Decision-Making in Parkinson's
 Software scripts and stan models for associated with the "*Impaired use of value representation for prosocial evidence accumulation in Parkinson's Disease*" manuscript (DOI) from Hubschmid F., Sellitto M., Bahners T.B., Pirenne T., Schnitzler A., van Wingerden M. & Florin E.
-Fully anonymiued task data will be made publicly available upon the time of publication on a dedicated OSF repository.
+Fully anonymized task data will be made available upon the time of publication on a dedicated OSF repository.
 ### Scripts
 Contains necessary R code to reproduce results repported in the main text.
 ### Stan models 
