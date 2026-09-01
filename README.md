@@ -1,13 +1,14 @@
 # Social Decision-Making in Parkinson's
-Software scripts and stan models for associated with the "*Prosocial evidence accumulation in Parkinson's Disease*" manuscript (not published) from Hubschmid F., Sellitto M., Bahners T.B., Pirenne T., Schnitzler A., van Wingerden M. & Florin E.
+Software scripts and stan models for associated with the "*Static and dynamic decision noise abolish altruistic biases in Parkinson’s disease independent of deep brain stimulation*" manuscript (not published) from Hubschmid F., Sellitto M., Bahners H.B., Pirenne T., Schnitzler A., van Wingerden M. & Florin E.
 Fully anonymized task data will be made available upon the time of publication on a dedicated OSF repository.
 ### Scripts
-Contains necessary R code to reproduce results repported in the main text.
+Contains necessary R code to reproduce results reported in the main text.
 ### Stan models 
-Contains the stan code for the the hyperbolic discount drift diffusion model (DDM) and the empathy weighted hyperbolic discount DDM. Given there are numerous valided hierarchical implementations of the DDM both in STAN (Ahn et al,. 2017) and Python (Wiecki,. 2013) we do not here provide code for the Baseline HDDM model.
+Contains the stan softwares for the social discount models used in the main text.
 ### Additional disclaimers:
-- Some code snippets were adapted from a previous project (Hubschmid et al., 2025).
+- Some code snippets were adapted from previous project (Hubschmid et al., 2025; Desch et al., 2023).
 - Models that map a discount function to a DDM are inspired from previous work of Peters & D'Esposito (2020).
+- Dynamic noise estimation through HMM corresponds to the method of Li & al., (2024).
 - Stan models are structured as the hierarchical Bayesian implementation of the hBayesDM package (Ahn et al,. 2017).
 - Parameter priors for the DDM come from Matzke & Wagenmakers (2009).
 ### References 
