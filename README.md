@@ -6,7 +6,7 @@ Contains necessary R code to reproduce results reported in the main text.
 ### Stan models 
 Contains the stan softwares for the social discount models used in the main text.
 ### Additional disclaimers:
-- Some code snippets were adapted from previous project (Hubschmid et al., 2025; Desch et al., 2023).
+- Some code snippets were adapted from previous projects (Hubschmid et al., 2025; Desch et al., 2023).
 - Models that map a discount function to a DDM are inspired from previous work of Peters & D'Esposito (2020).
 - Dynamic noise estimation through HMM corresponds to the method of Li & al., (2024).
 - Stan models are structured as the hierarchical Bayesian implementation of the hBayesDM package (Ahn et al,. 2017).
