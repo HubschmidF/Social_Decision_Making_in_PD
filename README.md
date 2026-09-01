@@ -1,10 +1,10 @@
 # Social Decision-Making in Parkinson's
 Software scripts and stan models for associated with the "*Static and dynamic decision noise abolish altruistic biases in Parkinson’s disease independent of deep brain stimulation*" manuscript (not published) from Hubschmid F., Sellitto M., Bahners H.B., Pirenne T., Schnitzler A., van Wingerden M. & Florin E.
-Fully anonymized task data will be made available upon the time of publication on a dedicated OSF repository.
+Fully anonymized task data will be made available upon the time of publication on a dedicated OSF repository. 
 ### Scripts
-Contains necessary R code to reproduce results reported in the main text.
+Contains necessary R code to reproduce results reported in the main text. 
 ### Stan models 
-Contains the stan softwares for the social discount models used in the main text.
+Contains the stan softwares for the social discount models used in the main text. 
 ### Additional disclaimers:
 - Some code snippets were adapted from previous projects (Hubschmid et al., 2025; Desch et al., 2023). 
 - Models that map a discount function to a DDM are inspired from previous work of Peters & D'Esposito (2020). 
@@ -18,6 +18,3 @@ Contains the stan softwares for the social discount models used in the main text
 - Li, J.-J., Shi, C., Li, L., & Collins, A. G. E. (2024). Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making. Journal of Mathematical Psychology, 119, 102842. https://doi.org/10.1016/j.jmp.2024.102842
 - Matzke, D., & Wagenmakers, E.-J. (2009). Psychological interpretation of the ex-Gaussian and shifted Wald parameters: A diffusion model analysis. Psychonomic Bulletin & Review, 16(5), 798–817. https://doi.org/10.3758/PBR.16.5.798
 - Peters, J., & D’Esposito, M. (2020). The drift diffusion model as the choice rule in inter-temporal and risky choice: A case study in medial orbitofrontal cortex lesion patients and controls. PLOS Computational Biology, 16(4), e1007615. https://doi.org/10.1371/journal.pcbi.1007615
-
-
-
