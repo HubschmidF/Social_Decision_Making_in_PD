@@ -1,5 +1,5 @@
 # Social Decision-Making in Parkinson's       
-Software scripts and stan models for associated with the "*Static and dynamic decision noise abolish altruistic biases in Parkinson’s disease independent of deep brain stimulation*" manuscript (not published) from Hubschmid F., Sellitto M., Bahners H.B., Pirenne T., Schnitzler A., van Wingerden M. & Florin E.
+Software scripts and stan models for associated with the "*Static and dynamic noise abolish altruistic biases in Parkinson’s disease independent of deep brain stimulation*" manuscript (not published) from Hubschmid F., Sellitto M., Bahners H.B., Pirenne T., Schnitzler A., van Wingerden M. & Florin E.
 Fully anonymized task data will be made available upon the time of publication on a dedicated OSF repository. 
 ### Scripts
 Contains necessary R code to reproduce results reported in the main text. 
